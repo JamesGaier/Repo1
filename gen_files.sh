@@ -26,6 +26,7 @@ elif [[ -z $1 ]]; then
     
     echo '
     #pragma once
+    #include <iostream>
 
     void bye()
     {
